@@ -1,0 +1,1 @@
+/home/bakr/.config/hypr/hyprland.lua
